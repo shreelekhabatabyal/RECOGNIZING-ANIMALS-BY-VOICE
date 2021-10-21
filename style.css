@@ -1,0 +1,37 @@
+body {
+    background-color: lawngreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header_div {
+    background-color: lightsalmon;
+    color: maroon;
+}
+
+.header_div p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: midnightblue;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.main_div button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 245, 255);
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.footer {
+    position: fixed;
+    color: gray;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 10px 10px 10px rgb(151, 149, 149);
+}
